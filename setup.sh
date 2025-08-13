@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ -o main_sub main_sub.cpp
+g++ -o main main.cpp
