@@ -1,2 +1,2 @@
 #!/bin/bash
-./main_sub
+./main
